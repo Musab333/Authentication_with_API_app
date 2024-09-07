@@ -50,6 +50,18 @@ In today’s digital landscape, secure access to applications is paramount. **Au
 [3] Profile Screen
 
 # Screenshots
+[-] Sign In Screen
+
+![Sign In Screen](https://github.com/user-attachments/assets/5158712c-5b1f-469a-a693-d11b53ff9ac5)
+
+[-] Sign Up Screen
+
+![Sign Up Screen](https://github.com/user-attachments/assets/d6b4968c-8538-49e5-a409-af94949da7f5)
+
+![Upload Image in profile](https://github.com/user-attachments/assets/0c1cafca-ab0f-42da-a3bb-96086e1b999f)
+
+![Insert Data in Sign Up Screen](https://github.com/user-attachments/assets/5389c467-60c6-4cac-addc-60ab2581b49c)
+
 
 
 # packages & Dependencies
